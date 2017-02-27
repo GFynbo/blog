@@ -6,3 +6,5 @@ theme:
 
 sass:
     sass_dir: ./_sass
+
+theme: jekyll-theme-cayman
