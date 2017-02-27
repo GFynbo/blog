@@ -1,0 +1,8 @@
+title: Gavin Fynbo | Blog
+description: A simple blog consisting of the life and adventures of a CS student.
+show_downloads: false
+google_analytics:
+theme:
+
+sass:
+    sass_dir: ./_sass
