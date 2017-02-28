@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Why getting a CS internship sucks
+title:      Getting a CS internship sucks
 date:       2017-02-27 14:30
 summary:    How my failed quest to get a CS internship showed me the harsh reality of the software industry and how you need to fit the right model.
 categories: hard CS student
