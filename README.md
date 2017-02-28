@@ -1,4 +1,4 @@
-# Gavin Fynbo | blog
+# Gavin Fynbo | Blog
 
 This is the blog section of the website for Gavin Fynbo (gavinfynbo.com).
 
