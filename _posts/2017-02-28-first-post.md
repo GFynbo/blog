@@ -13,10 +13,10 @@ student is nearly impossible. As a little background I am a Sophomore Computer S
 student as Boston University pursuing an internship with a technology company for the
 Summer of 2017. I have always been fascinated with computers and have only fallen
 more deeply in love with them since coming to school in 2015. I have worked on mostly
-small projects, have a good understanding of Computer Science fundamentals.
+small projects, and have a good understanding of Computer Science fundamentals.
 
 One of the biggest issues in the job search thus far has been proving my worth
-to these companies and convincing them that a Sophomore intern is worth their time.
+to companies and convincing them that a Sophomore intern is worth their time.
 Not only is it considerably more difficult to get your foot in the door as a Sophomore,
 but it is harder to convince the company that regardless of the amount of formal
 schooling you are an effective employee.
@@ -110,11 +110,11 @@ and friends have provided me. Unfortunately, complaining about the industry is n
 going to help me or you get a job. Because of this fact, there are many things
 that I would recommend to CS students and prospective interns in the software industry:
 
-> ![Interview Rejection Email](/blog/images/basecamp-reject.png)
-
 - Start practicing your CS fundamentals months ahead of time
 - Email a real person at the company (ala Felix Feng's piece)
 - Learn what they want you to learn (Algo's, Data structures, etc)
 - Read [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=9VYEGF6MTP5FGEXEZTRF) by Gayle Laakmann McDowell
 - Do side projects! Whatever you make, if it is interesting to you will get you into more interviews and will teach you more than any book can.
 - Follow through on your side projects, there's no point of starting them if you don't plan to finish them.
+
+> ![Interview Rejection Email](/blog/images/basecamp-reject.png)
