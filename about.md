@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-permalink: /blog/about.html
+permalink: /about.html
 tags: about
 ---
 
