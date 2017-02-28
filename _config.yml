@@ -3,7 +3,6 @@ description: A simple blog consisting of the life and adventures of a CS student
 show_downloads: false
 google_analytics:
 theme:
-site_url: /blog/
 
 sass:
     sass_dir: ./_sass
