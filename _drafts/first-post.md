@@ -34,6 +34,24 @@ and small projects it can be impossible to argue your worth to an interviewer th
 only sees that you cannot code an efficient implementation of Prim's algorithm in
 a completely unrealistic on-the-spot environment.
 
+### Prim's Algorithm Implementation
+```ruby
+# find the minimum spanning tree
+def prim(graph G)
+  adjacency_matrix = create_adjacency_matrix
+  first_edge = select_first_edge(adjacency_matrix)
+  @nodes_spanned_so_far, @edges = [first_edge[:start], first_edge[:end]], [first_edge]
+
+  while !nodes_left_to_cover.empty?
+    cheapest_edge = find_cheapest_edge(adjacency_matrix, @nodes_spanned_so_far, number_of_nodes)
+    @edges << cheapest_edge
+    @nodes_spanned_so_far << cheapest_edge[:start]  
+  end
+
+  puts "edges: #{@edges}, total spanning tree cost #{@edges.inject(0) {|acc, edge| acc + edge[:weight]}}"
+end
+```
+
 Even still, I managed to get interviews with companies &mdash; although not very many,
 about 15% &mdash; but when I got there I failed. I'm not sure exactly where I failed
 in the process, but somewhere during the interview I failed to perform some menial
