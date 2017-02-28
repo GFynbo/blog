@@ -73,7 +73,7 @@ or software internships. Obviously I have not made it through the entire process
 so I may be missing out on certain steps or functions, but the first stages are
 generally the same throughout.
 
-> ![HackerRank Coding Challenge Invitation](/images/mozilla-hackerrank.png)
+> ![HackerRank Coding Challenge Invitation](/blog/images/mozilla-hackerrank.png)
 
 1. Coding Challenge/Phone Screen
 2. Possible self-recorded video interview
@@ -113,7 +113,7 @@ and friends have provided me. Unfortunately, complaining about industry standard
 going to help me or you get a job. Because of this fact, there are many things
 that I would recommend to CS students and prospective interns in the software industry:
 
-> ![Interview Rejection Email](/images/basecamp-reject.png)
+> ![Interview Rejection Email](/blog/images/basecamp-reject.png)
 
 - Start practicing your CS fundamentals months ahead of time
 - Email a real person at the company (ala Felix Feng's piece)
