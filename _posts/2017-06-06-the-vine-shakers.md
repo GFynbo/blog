@@ -6,7 +6,7 @@ summary:    I was always able to create nifty little websites that did what I wa
 followed basic steps, but I never felt confident truly developing anything. In an attempt
 to help someone else and teach myself in the process I decided to develop a website for
 a small local business.
-categories: web CS student php wordpress
+categories: wordpress development learning
 ---
 
 ## Background
