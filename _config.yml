@@ -4,7 +4,7 @@ email:       fynbo@bu.edu
 author:      Gavin Fynbo
 description: "A blog to talk about the nuances of the life of a CS student."
 baseurl:     "/blog"
-url:         http://gfynbo.github.io/blog
+url:         http://gavinfynbo.me/blog
 BASE_PATH : http://gavinfynbo.me/blog
 date_format: "%b %-d, %Y"
 
