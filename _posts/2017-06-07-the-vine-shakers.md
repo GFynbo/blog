@@ -35,7 +35,7 @@ customize the project to their needs.
 
 After some research (hours) and brainstorming, I came to the conclusion that the
 best situation was a site created with Wordpress with a special thanks to
-[/freelance](www.reddit.com/r/freelance) and [/web_design](www.reddit.com/r/web_design).
+[/freelance](http://www.reddit.com/r/freelance) and [/web_design](http://www.reddit.com/r/web_design).
 It was friendly, but still allowed developers such as myself to harness the system.
 The client wanted to be able to add updates and manage parts of the site themselves,
 so it became clear that the ideal situation for both of us was Wordpress. I had used Wordpress
@@ -46,10 +46,10 @@ This is especially true in software and web development.
 
 ## Development
 
-Post-research I looked at multiple hosts and landed on [SiteGround](www.siteground.com)
+Post-research I looked at multiple hosts and landed on [SiteGround](http://www.siteground.com)
 based of reviews of reliability and price. Additionally, I developed most of the site
-locally using [MAMP](www.mamp.info) using an extremely popular parent theme framework
-called [Gensis](www.studiopress.com). Using hooks and PHP I was able to create everything
+locally using [MAMP](http://www.mamp.info) using an extremely popular parent theme framework
+called [Gensis](http://www.studiopress.com). Using hooks and PHP I was able to create everything
 I wanted to thanks to the simplicity of the program. The experience has been mostly
 positive with only minor grievances related to the documentation of the framework.
 In the past I have been more interested in software development regarding C++, Java and Python.
@@ -73,4 +73,4 @@ developers to look up to or use for learning. The best thing I can recommend for
 someone looking into freelancing, read, read, read. It never hurts to read and
 research the field before you jump into it and it is a complex field. If I could
 change one thing, lay out an extremely solid framework for features and items that
-are expected to be developed by you. Godspeed. 
+are expected to be developed by you. Godspeed.
