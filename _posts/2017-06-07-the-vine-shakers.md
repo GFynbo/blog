@@ -49,7 +49,7 @@ This is especially true in software and web development.
 Post-research I looked at multiple hosts and landed on [SiteGround](http://www.siteground.com)
 based of reviews of reliability and price. Additionally, I developed most of the site
 locally using [MAMP](http://www.mamp.info) using an extremely popular parent theme framework
-called [Gensis](http://www.studiopress.com). Using hooks and PHP I was able to create everything
+called [Genesis](http://www.studiopress.com). Using hooks and PHP I was able to create everything
 I wanted to thanks to the simplicity of the program. The experience has been mostly
 positive with only minor grievances related to the documentation of the framework.
 In the past I have been more interested in software development regarding C++, Java and Python.
